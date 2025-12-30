@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Lemon",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-30T01:25:31.024339Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Wine and Lemon Cake (with The Jane Austen Argument)",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/01_Bad_Wine_and_Lemon_Cake_(with_The_Jane_Austen_Argument)_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Wine and Lemon Cake (feat. The Jane Austen Argument)",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/02_Bad_Wine_and_Lemon_Cake_(feat._The_Jane_Austen_Argument)_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lemon Meringue Tie",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/03_Lemon_Meringue_Tie_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lemon Meringue Tie (Instrumental)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/04_Lemon_Meringue_Tie_(Instrumental)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lemon Meringue Tie (Live)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/05_Lemon_Meringue_Tie_(Live)_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lemon Meringue Tie (Tree City Sessions)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/06_Lemon_Meringue_Tie_(Tree_City_Sessions)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lemon Head",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/07_Lemon_Head_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lemon Head",
+      "artist": "Lil Yachty",
+      "has_synced": false,
+      "path": "select/08_Lemon_Head_Lil_Yachty.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Lemon Song - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/09_The_Lemon_Song_-_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Lemon Song",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/10_The_Lemon_Song_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chocolate Raspberry Lemon & Lime",
+      "artist": "Muscles",
+      "has_synced": false,
+      "path": "select/11_Chocolate_Raspberry_Lemon_&_Lime_Muscles.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lemon",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/12_Lemon_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blind Lemon Jefferson",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": false,
+      "path": "select/13_Blind_Lemon_Jefferson_Nick_Cave_&_The_Bad_Seeds.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blind Lemon Jefferson",
+      "artist": "Nick Cave And The Bad Seeds",
+      "has_synced": false,
+      "path": "select/14_Blind_Lemon_Jefferson_Nick_Cave_And_The_Bad_Seeds.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lemon",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/15_Lemon_U2.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lemon (Perfecto mix)",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/16_Lemon_(Perfecto_mix)_U2.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lemon Queen",
+      "artist": "Marissa Nadler",
+      "has_synced": false,
+      "path": "select/17_Lemon_Queen_Marissa_Nadler.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lemon Tree",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/18_Lemon_Tree_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lemon Lime Face",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": false,
+      "path": "select/19_Lemon_Lime_Face_Black_Moth_Super_Rainbow.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lemon",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_Lemon_米津玄師.txt"
+    }
+  ]
+}
